@@ -1,4 +1,4 @@
-localhost {
+screen.jobdone.app {
 	# basicauth {
 	# 	<username> <hash>
 	# }
